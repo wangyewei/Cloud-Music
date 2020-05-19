@@ -4,7 +4,7 @@
  * @WeChat: wj826036
  * @Motto: 求知若渴，虚心若愚
  * @Description
- * @LastEditTime: 2020-05-19 17:13:32
+ * @LastEditTime: 2020-05-19 17:36:04
  * @Version: 野未音乐 v_1.0 pc端
  * @FilePath: \cloud-music\README.md
 --> 
@@ -17,24 +17,22 @@
 
 ### 发现音乐、推荐歌单、最新音乐、推荐MV、搜索页
 
-![image](https://gitee.com/wang_ye_wei_gitee/Vue_music_player/blob/master/img-folder/index-discovery.png)
+![image](https://gitee.com/wang_ye_wei_gitee/Vue_music_player/blob/master/img-folder/index-discovery.jpg)
 
-![image](https://gitee.com/wang_ye_wei_gitee/Vue_music_player/blob/master/img-folder/index-playlist.png)
+![image](https://gitee.com/wang_ye_wei_gitee/Vue_music_player/blob/master/img-folder/index-playlist.jpg)
 
-![image](https://gitee.com/wang_ye_wei_gitee/Vue_music_player/blob/master/img-folder/index-newsong.png)
+![image](https://gitee.com/wang_ye_wei_gitee/Vue_music_player/blob/master/img-folder/index-newsong.jpg)
 
-![image](https://gitee.com/wang_ye_wei_gitee/Vue_music_player/blob/master/img-folder/index-mv.png)
+![image](https://gitee.com/wang_ye_wei_gitee/Vue_music_player/blob/master/img-folder/index-mv.jpg)
 
-![image](https://gitee.com/wang_ye_wei_gitee/Vue_music_player/blob/master/img-folder/index-result.png)
+![image](https://gitee.com/wang_ye_wei_gitee/Vue_music_player/blob/master/img-folder/index-result.jpg)
 
 
 ### 歌单详情、mv详情
 
-![image](https://gitee.com/wang_ye_wei_gitee/Vue_music_player/blob/master/img-folder/playlist.png)
+![image](https://gitee.com/wang_ye_wei_gitee/Vue_music_player/blob/master/img-folder/playlist.jpg)
 
-![image](https://gitee.com/wang_ye_wei_gitee/Vue_music_player/blob/master/img-folder/mv.png)
-
-![image]()
+![image](https://gitee.com/wang_ye_wei_gitee/Vue_music_player/blob/master/img-folder/mv.jpg
 
 ## 开发目的
 
