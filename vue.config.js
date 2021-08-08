@@ -20,16 +20,16 @@ module.exports = {
     hotOnly: true,
     proxy: {
       '/api': {
-        target: 'https://music.163.com/api/', //API服务器的地址
+        target: 'Please enter your server address here',  //API服务器的地址
         changeOrigin: true,
         pathRewrite: {
           '^/api': ''
         },
         // 突破host和origin的限制
         headers: {
-          referer: 'http://music.163.com',
-          origin: 'http://music.163.com',
-          host: 'music.163.com'
+          referer: 'Please enter your sever address here',
+          origin: 'Please enter your server address here',
+          host: 'Please enter your server addrsxs here'
         }
       },
     }
